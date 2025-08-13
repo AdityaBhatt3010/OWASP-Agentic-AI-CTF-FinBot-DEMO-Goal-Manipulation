@@ -1,7 +1,7 @@
 # 🏴 OWASP Agentic AI CTF – FinBot DEMO: Goal Manipulation
 
 **Date (CTF Release):** August 12, 2025 <br/>
-**Date (CTF Solve):** August 13, 2025 <br/>
+**Date (CTF Solved):** August 13, 2025 <br/>
 **CTF Type:** OWASP GenAI Security – Agentic AI CTF (FinBot DEMO) <br/>
 **Category:** AI Prompt Injection / Goal Manipulation <br/>
 **Difficulty Levels:** Easy, Intermediate, Hard <br/>
