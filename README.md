@@ -186,3 +186,15 @@ While this works here, in real life this kind of direct config access would (hop
 * Always validate and sanitize *all* input, even if it comes from a trusted-looking source.
 
 ---
+
+## 🏁 Closing Thoughts
+
+This CTF was a perfect reminder that **Agentic AI systems aren’t just about models and prompts — they’re about context, authority, and trust exploitation**. <br/>
+From impersonating leadership to pushing “urgent” narratives, the lesson is clear: **If the AI listens too well, it might listen to the wrong people**. <br/>
+
+Special thanks to the OWASP GenAI Security Project team for making this lab engaging and educational — and for letting us safely unleash our inner boulder in a controlled environment. <br/>
+
+Until the next CTF, <br/>
+Stay curious, stay ethical, and keep those moves calculated. <br/>
+
+---
